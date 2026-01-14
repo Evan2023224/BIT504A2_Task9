@@ -5,7 +5,6 @@
  * Assessment Number: 2
  */
 
-
 package com.library;
 
 import java.util.Scanner;
